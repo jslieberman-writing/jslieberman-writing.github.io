@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://jslieberman-writing.github.io/sitemap.xml
+Sitemap: https://jslieberman-writing.github.io/feed.xml
