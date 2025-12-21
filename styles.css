@@ -1,0 +1,78 @@
+/* styles.css — clean, readable defaults for essays */
+
+:root {
+  --bg: #ffffff;
+  --text: #111827;
+  --muted: #6b7280;
+  --link: #0b57d0;
+  --max: 720px;
+  --line: 1.75;
+  --font: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: var(--line);
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+header, main, footer {
+  width: min(var(--max), calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+header {
+  padding: 2.25rem 0 1rem;
+}
+.site-title {
+  font-family: var(--sans);
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 0.5rem;
+}
+nav a { margin-right: 0.75rem; }
+
+main { padding: 1rem 0 2.5rem; }
+
+h1 {
+  font-size: 2.2rem;
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+}
+h2 {
+  font-size: 1.35rem;
+  margin: 2rem 0 0.5rem;
+}
+
+.meta {
+  font-family: var(--sans);
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 1.5rem;
+}
+
+ul { padding-left: 1.25rem; }
+li { margin: 0.4rem 0; }
+
+hr {
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+  margin: 2.5rem 0;
+}
+
+footer {
+  padding: 1.5rem 0 2.5rem;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.9rem;
+}
