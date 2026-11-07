@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jordan Lieberman — Essays</title>
     <link>https://jslieberman-writing.github.io/</link>
@@ -8,182 +8,242 @@
       campaign strategy, media economics, and institutional power.
     </description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:30:00 GMT</lastBuildDate>
+    <atom:link href="https://jslieberman-writing.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>The Waiting Place</title>
       <link>https://jslieberman-writing.github.io/the-waiting-place.html</link>
       <guid>https://jslieberman-writing.github.io/the-waiting-place.html</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The American Campaign Operative, Part IV</description>
     </item>
     <item>
       <title>I Judge you by your Treasurer’s Grammar</title>
       <link>https://jslieberman-writing.github.io/i-judge-you-by-your-treasurers-grammar.html</link>
       <guid>https://jslieberman-writing.github.io/i-judge-you-by-your-treasurers-grammar.html</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A field guide to sixteen FEC treasurers, identified by their punctuation habits, recurring typos, and filing fingerprints.</description>
     </item>
     <item>
       <title>Why Does Everything Feel Harder?</title>
       <link>https://jslieberman-writing.github.io/why-does-everything-feel-harder.html</link>
       <guid>https://jslieberman-writing.github.io/why-does-everything-feel-harder.html</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Why breaking into the political business feels harder than ever… because it is.</description>
     </item>
     <item>
       <title>Data Supply, Meet Demand</title>
       <link>https://jslieberman-writing.github.io/data-supply-meet-demand.html</link>
       <guid>https://jslieberman-writing.github.io/data-supply-meet-demand.html</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The influencer data you are paying for wants to be free.</description>
     </item>
     <item>
       <title>Bad Digital and Other Ways to Lose</title>
       <link>https://jslieberman-writing.github.io/bad-digital-and-other-ways-to-lose.html</link>
       <guid>https://jslieberman-writing.github.io/bad-digital-and-other-ways-to-lose.html</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <description>The tells that show up in campaign filings before a campaign knows it is in trouble: late starts, untraceable digital spending, and the patterns in twenty-five years of disbursement data.</description>
     </item>
     <item>
       <title>The Three Restaurants of American Politics</title>
       <link>https://jslieberman-writing.github.io/the-three-restaurants-of-american-politics.html</link>
       <guid>https://jslieberman-writing.github.io/the-three-restaurants-of-american-politics.html</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Today I will take you on a journey through the three restaurants of politics like the American political consulting version of David Attenborough.</description>
     </item>
     <item>
       <title>CTV is Not Television</title>
       <link>https://jslieberman-writing.github.io/ctv-is-not-television.html</link>
       <guid>https://jslieberman-writing.github.io/ctv-is-not-television.html</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+      <description>CTV looks like television, but it is a digital ad in a television skin suit, and the TV buyers selling it were trained on a medium that no longer exists.</description>
     </item>
     <item>
       <title>Your Family Portrait</title>
       <link>https://jslieberman-writing.github.io/your-family-portrait.html</link>
       <guid>https://jslieberman-writing.github.io/your-family-portrait.html</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Family portraits are always awkward. They capture not just the family, but the context of time, space, and culture.</description>
     </item>
     <item>
       <title>The Leftovers</title>
       <link>https://jslieberman-writing.github.io/the-leftovers.html</link>
       <guid>https://jslieberman-writing.github.io/the-leftovers.html</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+      <description>They’re not gone. They’re just not here.</description>
     </item>
     <item>
       <title>This is Us, Part III</title>
       <link>https://jslieberman-writing.github.io/this-is-us.html</link>
       <guid>https://jslieberman-writing.github.io/this-is-us.html</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <description>The only three things that happen to campaign staff after Election Day. If you’ve worked campaigns, you already know which box you’re in.</description>
     </item>
     <item>
       <title>The Bear, Part II</title>
       <link>https://jslieberman-writing.github.io/the-bear.html</link>
       <guid>https://jslieberman-writing.github.io/the-bear.html</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Part II of the American campaign operative series: where campaign managers actually go, why experience does not pay, and how state ecosystems and training infrastructure decide who lasts.</description>
     </item>
 
     <item>
       <title>Why Consulting Firms Need to Confront These 5 Dysfunctions</title>
       <link>https://jslieberman-writing.github.io/why-consulting-firms-need-to-confront-these-5-dysfunctions.html</link>
       <guid>https://jslieberman-writing.github.io/why-consulting-firms-need-to-confront-these-5-dysfunctions.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Political and public affairs consulting firms face structural dysfunctions that prevent growth. Five management failures — identified by Patrick Lencioni — explain why many firms stall or fail.</description>
     </item>
 
     <item>
       <title>Political Advertisers Promoted Polarization. Now We Need To Help Fix It</title>
       <link>https://jslieberman-writing.github.io/political-advertisers-promoted-polarization.html</link>
       <guid>https://jslieberman-writing.github.io/political-advertisers-promoted-polarization.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Political advertisers helped fuel polarization through microtargeting and digital media. Now the industry has a responsibility to help repair democratic norms.</description>
     </item>
 
     <item>
       <title>The AI Revolution is Canceled</title>
       <link>https://jslieberman-writing.github.io/the-ai-revolution-is-canceled.html</link>
       <guid>https://jslieberman-writing.github.io/the-ai-revolution-is-canceled.html</guid>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+      <description>Why artificial intelligence will not replace political consultants — and what it will actually change instead.</description>
     </item>
 
     <item>
       <title>AI Is Coming for Jobs. So Say It Out Loud.</title>
       <link>https://jslieberman-writing.github.io/ai-is-coming-for-jobs-so-say-it-out-loud.html</link>
       <guid>https://jslieberman-writing.github.io/ai-is-coming-for-jobs-so-say-it-out-loud.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>A candid note on AI, jobs, and why teams must upskill now rather than wait to be disrupted.</description>
     </item>
 
     <item>
       <title>13 Truths For 2024 That You’re Not Prepared For</title>
       <link>https://jslieberman-writing.github.io/13-truths-for-2024-youre-not-prepared-for.html</link>
       <guid>https://jslieberman-writing.github.io/13-truths-for-2024-youre-not-prepared-for.html</guid>
+      <description>Thirteen uncomfortable truths about the 2024 election cycle, political consulting, media, power, and what’s about to break.</description>
     </item>
 
     <item>
       <title>8 Predictions for Political Consulting in 2024</title>
       <link>https://jslieberman-writing.github.io/8-predictions-for-political-consulting-in-2024.html</link>
       <guid>https://jslieberman-writing.github.io/8-predictions-for-political-consulting-in-2024.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Eight predictions shaping political consulting in 2024, from AI and supply path optimization to DSP consolidation and the decline of linear TV.</description>
     </item>
 
     <item>
       <title>What the Extinction of Non-Competes Could Mean for Your Firm’s Culture</title>
       <link>https://jslieberman-writing.github.io/what-the-extinction-of-non-competes-could-mean-for-your-firms-culture.html</link>
       <guid>https://jslieberman-writing.github.io/what-the-extinction-of-non-competes-could-mean-for-your-firms-culture.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>As non-compete agreements face extinction, political and public affairs firms must rethink how they attract and retain talent. Culture, not contracts, will determine who wins.</description>
     </item>
 
     <item>
       <title>Why Hasn’t SPO Taken Off with Politics and Public Affairs (Yet)?</title>
       <link>https://jslieberman-writing.github.io/why-hasnt-spo-taken-off-with-politics-and-public-affairs.html</link>
       <guid>https://jslieberman-writing.github.io/why-hasnt-spo-taken-off-with-politics-and-public-affairs.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Why supply-path optimization has lagged in political and public affairs advertising—and why that may be changing in 2024.</description>
     </item>
 
     <item>
       <title>The Hidden Architecture of Campaign Spending</title>
       <link>https://jslieberman-writing.github.io/the-hidden-architecture-of-campaign-spending.html</link>
       <guid>https://jslieberman-writing.github.io/the-hidden-architecture-of-campaign-spending.html</guid>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+      <description>I read 50M+ vendor disbursements so you don't have to. Turns out, it's just Breakfast Club with more money.</description>
     </item>
 
     <item>
       <title>The Absurdity of Tracking Political Digital Spends</title>
       <link>https://jslieberman-writing.github.io/the-absurdity-of-tracking-political-digital-spends.html</link>
       <guid>https://jslieberman-writing.github.io/the-absurdity-of-tracking-political-digital-spends.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Why tracking political digital ad spending, and projecting from questionable totals, is essentially impossible, starting with the looseness of FEC expenditure reporting.</description>
     </item>
 
     <item>
       <title>Digital Political Advertising in 2020: What We Learned</title>
       <link>https://jslieberman-writing.github.io/digital-political-advertising-in-2020-what-we-learned.html</link>
       <guid>https://jslieberman-writing.github.io/digital-political-advertising-in-2020-what-we-learned.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>What the 2020 cycle revealed about political digital spending, OTT, DSPs, regulation, and the future of campaign advertising.</description>
     </item>
 
     <item>
       <title>Politics Have Changed. Here’s How Political Advertisers Can Adapt.</title>
       <link>https://jslieberman-writing.github.io/politics-have-changed-heres-how-political-advertisers-can-adapt.html</link>
       <guid>https://jslieberman-writing.github.io/politics-have-changed-heres-how-political-advertisers-can-adapt.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>How political advertising evolved in the 2024 cycle — and what campaigns, consultants, and media buyers need to understand going forward.</description>
     </item>
 
     <item>
       <title>Online Political Ads Find Lonely, Isolated Voters</title>
       <link>https://jslieberman-writing.github.io/online-political-ads-find-lonely-isolated-voters.html</link>
       <guid>https://jslieberman-writing.github.io/online-political-ads-find-lonely-isolated-voters.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>How precision-targeted digital advertising exposes the weakness of America's eroding community ties, and why the most successful campaigns leverage that isolation to win.</description>
     </item>
 
     <item>
       <title>The Dead Persuadable Voter Theory</title>
       <link>https://jslieberman-writing.github.io/the-dead-persuadable-voter-theory.html</link>
       <guid>https://jslieberman-writing.github.io/the-dead-persuadable-voter-theory.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Why the persuadable voter is disappearing — and how modern political persuasion has shifted from conversion to emotional activation.</description>
     </item>
 
     <item>
       <title>The Digital Lessons of Election 2018</title>
       <link>https://jslieberman-writing.github.io/the-digital-lessons-of-election-2018.html</link>
       <guid>https://jslieberman-writing.github.io/the-digital-lessons-of-election-2018.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>What the 2018 midterms taught political advertisers about regulation, staffing, OTT, social media, and scaling digital campaigns responsibly.</description>
     </item>
 
     <item>
       <title>5 Ways Campaigns Were Misled in 2016</title>
       <link>https://jslieberman-writing.github.io/5-ways-campaigns-were-misled-in-2016.html</link>
       <guid>https://jslieberman-writing.github.io/5-ways-campaigns-were-misled-in-2016.html</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Five common ways political campaigns were misled in 2016 — from questionable inventory and fuzzy data to bad advice and low-reach tactics.</description>
     </item>
 
     <item>
       <title>Nobody Wants This, Part I</title>
       <link>https://jslieberman-writing.github.io/nobody-wants-this-part-i.html</link>
       <guid>https://jslieberman-writing.github.io/nobody-wants-this-part-i.html</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+      <description>Why campaign management has become one of the most unstable careers in American public life — and how structural collapse, geography, and COVID reshaped the profession.</description>
     </item>
 
     <item>
       <title>Losers Fly Spirit</title>
       <link>https://jslieberman-writing.github.io/losers-fly-spirit.html</link>
       <guid>https://jslieberman-writing.github.io/losers-fly-spirit.html</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+      <description>What 20 years of campaign spending reveals about winners and losers</description>
     </item>
 
     <item>
       <title>Seasonal Affective Disorder Hits Consultants Different</title>
       <link>https://jslieberman-writing.github.io/seasonal-affective-disorder-consultants.html</link>
       <guid>https://jslieberman-writing.github.io/seasonal-affective-disorder-consultants.html</guid>
+      <description>On the post-election crash campaign operatives face when the adrenaline stops, and how that quiet can collide with seasonal affective disorder.</description>
     </item>
 
     <item>
       <title>An Open Letter to Digital Publishers</title>
       <link>https://jslieberman-writing.github.io/an-open-letter-to-digital-publishers.html</link>
       <guid>https://jslieberman-writing.github.io/an-open-letter-to-digital-publishers.html</guid>
+      <description>An open letter to digital publishers on the buyer-side balance of power in political digital advertising, a decade into the market's growth.</description>
     </item>
 
   </channel>
